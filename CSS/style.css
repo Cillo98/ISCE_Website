@@ -1,0 +1,94 @@
+html {
+    height: 100%;
+    overflow: hidden;
+}
+body {
+    /* dimensions */
+    height: 100%;
+    width: 100%;
+    
+    /* behavior */
+    overflow-y: scroll;
+    
+    /* body appearance */
+    color: #333;
+    font-family: Helvetica Nue, Helvetica, Arial;
+}
+a {
+    /* remove the underline to links */
+    text-decoration: none;
+}
+p {
+    font-size: 1.2em;
+    line-height: 1.3em;
+}
+
+
+/*  HEADER */
+header {
+    /* make it stick to the top */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    
+    /* dimensions */
+    height: 80px;
+    width: 100%;
+    
+    /* appearance */
+    background: lightblue;
+    border-bottom: 5px solid blue;
+}
+#menu_logo {
+    /* dimensions */
+    height: 60px;
+    
+    /* position */
+    margin: 10px 15px;
+    float: left;
+    display: block;
+}
+#menu_logo img {
+    /*  as it's contained in the header, its
+        height will match the header's height*/
+    height: 100%;
+}
+nav {
+    /* menu on the right with some nice padding */
+    float: right;
+    padding: 6px 15px;
+}
+nav ul {
+    /* get rid of dots / underline */
+    list-style: none;
+}
+nav ul li {
+    /* position */
+    display: inline-block;
+    float: left;
+    padding: 8px;
+}
+nav ul li a {
+    /* appearance */
+    color: wheat;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+nav ul li a:hover {
+    /* make the menu turn black when hovered */
+    color: #333;
+}
+/* Menu icon for Mobiles */
+#menu_icon {
+    width: 40px;
+    height: 40px;
+    
+    display: hidden;
+    
+    background: blue center;
+}
+nav ul li a:hover #menu_icon {
+    border-radius: 4px 4px 0 0;
+}

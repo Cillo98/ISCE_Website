@@ -1,0 +1,26 @@
+Electric Mobility
+***
+Moving from the combustion to the electric engine reduces carbon emissions and 
+leads to cleaner air. ...
+***
+electricmobility
+*****
+Deep Learning
+***
+Deep Learning has already been widely used world wide, for example image 
+recognition, voice recognition, ...
+***
+deeplearning
+*****
+Behavioral Finance
+***
+I am currently trying to analyze the influence of news articles on stock 
+market change using Deep Learning.
+***
+behavioralfinance
+*****
+Value creation theory
+***
+Value creation for sustainablility & Green transports
+***
+valuecreationtheory

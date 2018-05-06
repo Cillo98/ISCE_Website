@@ -1,0 +1,55 @@
+electricmobility
+***
+Electric Mobility
+***
+Moving from the combustion to the electric engine reduces carbon emissions and leads to cleaner air. As most Chinese scooters are already electrified, electric cars and buses are the next step. The Chinese Communist Party announced the goal to have five million EVs on Chinese roads by 2020.
+***
+Adrian de Riz,MSc Business Analytics,addi1878
+***
+Adrian de Riz,MSc Business Analytics,addi1878
+***
+20.05.2018 - Meeting to meet people in the meeting
+***
+Adrian de Riz,MSc Business Analytics
+**********
+deeplearning
+***
+Deep Learning
+***
+On March 2016, AlphaGo become the first computer AI to defeat professional human Go player. After that in late 2017, AlphaGo Zero which is an advanced version beyond AlphaGo, beat his original generation for 100:0, with only a 3-day training. The technology behind that is Deep Learning. Deep Learning has already been widely used world wide, for example image recognition, voice recognition, autonomous driving, etc. It is for sure that Deep Learning can still be applied to a variety of other industries and make contribution to human being. Any interesting thoughts and inspirations are appreciated.
+***
+Yihua Zhou,MSc Business Analytics,astro1boy
+***
+Yihua Zhou,MSc Business Analytics,astro1boy
+***
+20.05.2018 - Meeting to meet people in the meeting
+***
+Yihua Zhou,MSc Business Analytics
+**********
+behavioralfinance
+***
+Behavioral Finance
+***
+Predicting market change has always been a hot topic for market participants. Generally people believe news can be one of the determinants of short-run market price change. I am currently trying to analyse the influence of news articles on stock market change using Deep Learning.
+***
+Yihua Zhou,MSc Business Analytics,astro1boy
+***
+Yihua Zhou,MSc Business Analytics,astro1boy
+***
+20.05.2018 - Meeting to meet people in the meeting
+***
+Yihua Zhou,MSc Business Analytics
+**********
+valuecreationtheory
+***
+Value Creation Theory
+***
+Value creation for sustainability & Green transports
+***
+Junjie Shen,PhD Value Creation Theory,JunjieShen1
+***
+Junjie Shen,PhD Value Creation Theory,JunjieShen1
+***
+20.05.2018 - Meeting to meet people in the meeting
+***
+Junjie Shen,PhD Value Creation Theory

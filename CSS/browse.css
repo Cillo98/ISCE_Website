@@ -1,0 +1,42 @@
+#tilesContainer {
+    min-width: 500px;
+    margin: 200px 10%;
+    
+    text-align: center;
+}
+
+.project {
+    width: 350px;
+    height: 300px;
+    
+    position: relative;
+    
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.project div {
+    width: 310px;
+    height: 260px;
+    
+    margin: 20px;
+    background: rgba(66, 134, 244, .3);
+    border-radius: 5px;
+}
+
+.project div h2 {
+    height: 50px;
+    
+    padding: 10px 10px 20px;
+    
+    text-align: center;
+    background: rgba(255, 254, 204, .7);
+}
+
+.project div p {
+    height: 150px;
+    overflow: hidden;
+    
+    padding: 0 10px;
+    color: #333;
+}

@@ -1,0 +1,98 @@
+#project {
+    width: 70%;
+    min-width: 600px;
+    
+    margin: 120px auto;
+    
+    background: rgba(66, 134, 244, .2);
+}
+#project img {
+    width: 50px;
+    height: 50px;
+    
+    border-radius: 5px;
+}
+
+#header {
+    padding: 30px;
+    padding-top: 10px;
+    background: rgba(66, 34, 244, .1);
+}
+#header h2 {
+    padding: 0 20px 20px;
+    background: wheat;
+}
+#header p {
+    text-align: justify;
+}
+
+#heads {
+    width: auto;
+    height: fit-content;
+}
+
+.vip {
+    width: 20%;
+    min-width: 120px;
+    height: 180px;
+    
+    display: inline-block;
+    margin: 20px 0 20px 3%;
+    text-align: center;
+    float: left;
+    
+    overflow: hidden;
+}
+.vip p {
+    height: 50px;
+    vertical-align: middle;
+    margin: 0 auto 5px;
+}
+.vip a {
+    display: block;
+}
+#responsibleName, #initiatorName {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#events {
+    width: 44%;
+    min-width: 140px;
+    height: 180px;
+    
+    display: inline-block;
+    position: relative;
+    
+    margin: 20px 4%;
+}
+#events p {
+    display: block;
+    margin: 15px 0;
+    padding: 0;
+}
+#events p:first-child {
+    display: block;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+#contributors {
+    height: fit-content;
+    padding: 20px;
+    overflow: hidden;
+    
+    background: rgba(66, 34, 44, .1);
+}
+.member {
+    width: 20%;
+    min-width: 120px;
+    height: 180px;
+    
+    display: inline-block;
+    margin: 20px 0 20px 3.5%;
+    text-align: center;
+    float: left;
+    
+    overflow: hidden;
+}
